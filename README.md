@@ -16,11 +16,11 @@ I'm a B.Tech graduate passionate about Cloud Computing, DevOps and Automation.
 - ⚙️ Kubernetes
 
 ### 📂 Projects
-3-Tier Application project using Mobaxterm 
-Azure Backup & Disaster Recovery – Virtual Machine Backup, Recovery & Business Continuity
-CI/CD Pipeline using GitHub Actions – Automated Build, Testing & Continuous Deployment
-Azure Load Balancer – Traffic Distribution, High Availability & Application Load Management
-Azure Windows Image Creation Using Packer
+* 3-Tier Application project using Mobaxterm 
+* Azure Backup & Disaster Recovery – Virtual Machine Backup, Recovery & Business Continuity
+* CI/CD Pipeline using GitHub Actions – Automated Build, Testing & Continuous Deployment
+* Azure Load Balancer – Traffic Distribution, High Availability & Application Load Management
+* Azure Windows Image Creation Using Packer
 
 ### 📫 Connect with me
 
