@@ -13,14 +13,16 @@ I'm a B.Tech graduate passionate about Cloud Computing, DevOps and Automation.
 - 🔧 Git & GitHub
 - 🔄 CI/CD
 - 🏗️ Terraform
-- ⚙️ Jenkins
+- ⚙️ Kubernetes
 
 ### 📂 Projects
-
-- Cloud Infrastructure Projects
-- Docker & CI/CD Projects
-- Linux Automation Projects
+3-Tier Application project using Mobaxterm 
+Azure Backup & Disaster Recovery – Virtual Machine Backup, Recovery & Business Continuity
+CI/CD Pipeline using GitHub Actions – Automated Build, Testing & Continuous Deployment
+Azure Load Balancer – Traffic Distribution, High Availability & Application Load Management
+Azure Windows Image Creation Using Packer
 
 ### 📫 Connect with me
 
-- LinkedIn: YOUR-LINKEDIN-LINK
+- LinkedIn: www.linkedin.com/in/bharath-kumar-reddy-lekkala-653b5040b
+
